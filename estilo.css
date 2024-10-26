@@ -10,6 +10,9 @@ html{
     /* me permite deslizar cuando hago clic en los links del menu */
     scroll-behavior: smooth;
 }
+img{
+    height:200px;
+}
 /* MENU */
 .contenedor-header{
     background: #1e2326;
@@ -591,6 +594,7 @@ html{
 .contacto .col img{
     width: 100%;
 }
+
 .contacto .col .info{
     position: absolute;
     top: 40%;
